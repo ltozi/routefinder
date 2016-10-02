@@ -1,0 +1,20 @@
+{
+  "name": "route-puzzle",
+  "version": "1.0.0",
+  "description": "A-Maze-ingly Retro Route Puzzle test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luigi Toziani",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "chai": "^3.5.0",
+    "cli-table": "^0.3.1",
+    "commander": "^2.9.0",
+    "console.table": "^0.7.0",
+    "lodash": "^4.16.2",
+    "stackjs": "^0.1.0"
+  }
+}
