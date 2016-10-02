@@ -13,8 +13,6 @@
     "chai": "^3.5.0",
     "cli-table": "^0.3.1",
     "commander": "^2.9.0",
-    "console.table": "^0.7.0",
     "lodash": "^4.16.2",
-    "stackjs": "^0.1.0"
   }
 }

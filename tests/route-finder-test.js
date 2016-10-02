@@ -61,7 +61,7 @@ describe('Testing route finder', function() {
     });
 
 
-    it.only('Should collect objects as requested starting from a different point', function() {
+    it('Should collect objects as requested starting from a different point', function() {
 
         var router = new RouteFinder(roomsMap);
         var startinPoint = 1;

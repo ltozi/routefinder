@@ -1,4 +1,3 @@
-var Stack = require('stackjs');
 var _ = require('lodash');
 var Table = require('cli-table');
 
