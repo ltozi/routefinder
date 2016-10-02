@@ -6,7 +6,7 @@
 
 2. ./dockerRun.sh /path/to/unzipped/route-puzzle   (needs the absolute path for installing dependencies correctly)
 
-To change map, 
+To change program parameters just edit the dockerRun.sh file according to the parameters below
 
 Program Options:
 
