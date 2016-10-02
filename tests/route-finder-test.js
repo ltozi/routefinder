@@ -13,7 +13,8 @@ var roomsMap;
 
 describe('Testing route finder', function() {
 
-    before(function () {
+    beforeEach(function () {
+        var graph = JSON.parse(fs.readFileSync('../room-map.json', 'utf8'));
         roomsMap = maputils.loadRoomsMap(graph);
     })
 
