@@ -7,7 +7,6 @@ var expect = chai.expect; // we are using the "expect" style of Chai
 var maputils = require('../utils/index');
 var RouteFinder = require('../puzzle/route-finder');
 var fs = require("fs");
-var graph = JSON.parse(fs.readFileSync('../room-map.json', 'utf8'));
 
 var roomsMap;
 
